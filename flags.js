@@ -1,6 +1,6 @@
 const featureFlags = {
     checkoutV2: true,
-    rolloutPercentage: 5
+    rolloutPercentage: 100
 };
 
 function isOn(flag) {
