@@ -1,0 +1,12 @@
+Monitoreo de liberación - Checkout V2
+
+Porcentaje inicial: 5 %
+
+Observaciones:
+- No se identificaron errores durante la simulación.
+- No se observaron problemas de latencia.
+- El Checkout V1 permaneció disponible.
+- El Checkout V2 se mantuvo estable durante la validación.
+
+Decisión:
+El responsable del Feature Flag autoriza escalar la liberación al 100 %.
